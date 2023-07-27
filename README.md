@@ -1,2 +1,6 @@
 # Mr-browser
-Web browser maked an python - PyQt5
+Navegador web hecho en python con PyQt5 con unos buenos estilos css
+
+Ejecutar Mr browser:
+
+python MrBrowser.py en la terminal y listo
